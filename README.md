@@ -7,6 +7,10 @@ About Regression:
 ## Objective
 The objective of this article is to predict flight prices given the various parameters. Data used in this article is publicly available at Kaggle. This will be a regression problem since the target or dependent variable is the price (continuous numeric value).
 
-### types of regression
+Types of regression:
+  1. Linear regression
+  2. Logistic regression
+  3. Polynomial Regression
+
 Ridge Regression.
 Lasso Regression
